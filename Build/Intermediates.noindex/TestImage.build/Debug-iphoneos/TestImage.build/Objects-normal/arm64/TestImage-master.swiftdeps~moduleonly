@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "c351b83ab5d0d0b7052b63b591da1600"
+build_time: [1567707745, 113051000]
+inputs:
+  "/Users/asif.seraje/Downloads/TestImage/TestImage/AppConfig.swift": !dirty [1567528457, 566937392]
+  "/Users/asif.seraje/Downloads/TestImage/TestImage/ViewController.swift": !dirty [1566762819, 0]
+  "/Users/asif.seraje/Downloads/TestImage/TestImage/UploadImageViewController.swift": !dirty [1567707530, 247794455]
+  "/Users/asif.seraje/Downloads/TestImage/TestImage/SettingsViewController.swift": !dirty [1567529361, 199853693]
+  "/Users/asif.seraje/Downloads/TestImage/TestImage/Switcher.swift": !dirty [1567450547, 663550318]
+  "/Users/asif.seraje/Downloads/TestImage/TestImage/ImageDetailsViewController.swift": !dirty [1567706572, 454055113]
+  "/Users/asif.seraje/Downloads/TestImage/TestImage/Media.swift": !dirty [1566748075, 0]
+  "/Users/asif.seraje/Downloads/TestImage/TestImage/LoginViewController.swift": !dirty [1567529129, 785571832]
+  "/Users/asif.seraje/Downloads/TestImage/TestImage/AppDelegate.swift": !dirty [1567522794, 867795616]
+  "/Users/asif.seraje/Downloads/TestImage/TestImage/TabBarViewController.swift": !dirty [1567450546, 93924075]
+  "/Users/asif.seraje/Downloads/TestImage/TestImage/CustomImageTableViewCell.swift": !dirty [1567532526, 988775376]
+  "/Users/asif.seraje/Downloads/TestImage/TestImage/HomeViewController.swift": !dirty [1567530553, 299029477]

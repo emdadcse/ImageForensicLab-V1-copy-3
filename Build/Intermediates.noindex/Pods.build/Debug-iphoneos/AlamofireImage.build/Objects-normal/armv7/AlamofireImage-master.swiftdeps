@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "5b4b2cccf7a003fbd444910b2df2febb"
+build_time: [1567707742, 919477000]
+inputs:
+  "/Users/asif.seraje/Downloads/TestImage/Pods/AlamofireImage/Source/AFIError.swift": !dirty [1566755854, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/AlamofireImage/Source/Image.swift": !dirty [1566755854, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/AlamofireImage/Source/ImageCache.swift": !dirty [1566755854, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/AlamofireImage/Source/ImageDownloader.swift": !dirty [1566755854, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/AlamofireImage/Source/ImageFilter.swift": !dirty [1566755854, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": !dirty [1566755854, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": !dirty [1566755854, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": !dirty [1566755854, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": !dirty [1566755854, 0]

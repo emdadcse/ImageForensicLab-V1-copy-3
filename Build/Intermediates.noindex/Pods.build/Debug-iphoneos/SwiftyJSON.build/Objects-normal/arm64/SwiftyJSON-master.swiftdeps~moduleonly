@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "63905a275cb7810756309415d09fe970"
+build_time: [1567707730, 908341000]
+inputs:
+  "/Users/asif.seraje/Downloads/TestImage/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift": [1566755854, 0]

@@ -1,0 +1,461 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RequestReceipt"
+- "ImageDownloader"
+provides-nominal:
+- "14AlamofireImage14RequestReceiptC"
+- "14AlamofireImage0B10DownloaderC"
+- "14AlamofireImage0B10DownloaderC22DownloadPrioritizationO"
+- "14AlamofireImage0B10DownloaderC15ResponseHandlerC"
+provides-member:
+- ["14AlamofireImage14RequestReceiptC", ""]
+- ["14AlamofireImage0B10DownloaderC", ""]
+- ["14AlamofireImage0B10DownloaderC22DownloadPrioritizationO", ""]
+- ["14AlamofireImage0B10DownloaderC15ResponseHandlerC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "&&"
+- !private "*"
+- !private "+="
+- !private "-="
+- !private "<"
+- "=="
+- !private ">"
+- !private "??"
+- "AssignmentPrecedence"
+- !private "AutoPurgingImageCache"
+- "Bool"
+- !private "BooleanLiteralType"
+- "DataRequest"
+- "DataResponse"
+- "DispatchQueue"
+- "FloatLiteralType"
+- "ImageDownloader"
+- "ImageFilter"
+- "ImageRequestCache"
+- "Int"
+- "IntegerLiteralType"
+- "Request"
+- "RequestReceipt"
+- "SessionManager"
+- "String"
+- "StringLiteralType"
+- "URLCache"
+- "URLCredential"
+- "URLRequestConvertible"
+- "URLSessionConfiguration"
+- !private "UUID"
+- "Void"
+- "arc4random"
+depends-member:
+- ["So17OS_dispatch_queueC8DispatchE10AttributesV", "concurrent"]
+- !private ["14AlamofireImage011AutoPurgingB5CacheC", "deinit"]
+- !private ["14AlamofireImage011AutoPurgingB5CacheC", "init"]
+- ["SK", "init"]
+- ["s7CVarArgP", "Persistence"]
+- !private ["s7CVarArgP", "allowsCellularAccess"]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "default"]
+- !private ["s7CVarArgP", "httpAdditionalHeaders"]
+- !private ["s7CVarArgP", "httpShouldSetCookies"]
+- !private ["s7CVarArgP", "httpShouldUsePipelining"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "removeValue"]
+- !private ["s7CVarArgP", "requestCachePolicy"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "sync"]
+- !private ["s7CVarArgP", "timeoutIntervalForRequest"]
+- !private ["s7CVarArgP", "urlCache"]
+- !private ["So23NSURLRequestCachePolicyV", "useProtocolCachePolicy"]
+- ["Sl", "init"]
+- !private ["Sl", "removeValue"]
+- !private ["Sl", "subscript"]
+- ["SL", "init"]
+- ["s28CustomDebugStringConvertibleP", "Persistence"]
+- !private ["s28CustomDebugStringConvertibleP", "allowsCellularAccess"]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- !private ["s28CustomDebugStringConvertibleP", "httpAdditionalHeaders"]
+- !private ["s28CustomDebugStringConvertibleP", "httpShouldSetCookies"]
+- !private ["s28CustomDebugStringConvertibleP", "httpShouldUsePipelining"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "removeValue"]
+- !private ["s28CustomDebugStringConvertibleP", "requestCachePolicy"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "sync"]
+- !private ["s28CustomDebugStringConvertibleP", "timeoutIntervalForRequest"]
+- !private ["s28CustomDebugStringConvertibleP", "urlCache"]
+- !private ["s28CustomDebugStringConvertibleP", "uuidString"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "removeValue"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "uuidString"]
+- ["s23CustomStringConvertibleP", "Persistence"]
+- !private ["s23CustomStringConvertibleP", "allowsCellularAccess"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- !private ["s23CustomStringConvertibleP", "httpAdditionalHeaders"]
+- !private ["s23CustomStringConvertibleP", "httpShouldSetCookies"]
+- !private ["s23CustomStringConvertibleP", "httpShouldUsePipelining"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "removeValue"]
+- !private ["s23CustomStringConvertibleP", "requestCachePolicy"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "sync"]
+- !private ["s23CustomStringConvertibleP", "timeoutIntervalForRequest"]
+- !private ["s23CustomStringConvertibleP", "urlCache"]
+- !private ["s23CustomStringConvertibleP", "uuidString"]
+- ["Se", "init"]
+- !private ["Se", "removeValue"]
+- !private ["Se", "subscript"]
+- !private ["Se", "uuidString"]
+- !private ["SD", "removeValue"]
+- !private ["SD", "subscript"]
+- !private ["So18OS_dispatch_objectC", "async"]
+- ["So18OS_dispatch_objectC", "init"]
+- !private ["So18OS_dispatch_objectC", "main"]
+- !private ["So18OS_dispatch_objectC", "sync"]
+- !private ["So17OS_dispatch_queueC", "async"]
+- ["So17OS_dispatch_queueC", "init"]
+- !private ["So17OS_dispatch_queueC", "main"]
+- !private ["So17OS_dispatch_queueC", "sync"]
+- ["14AlamofireImage0B10DownloaderC22DownloadPrioritizationO", "=="]
+- ["14AlamofireImage0B10DownloaderC22DownloadPrioritizationO", "__derived_enum_equals"]
+- ["14AlamofireImage0B10DownloaderC22DownloadPrioritizationO", "_rawHashValue"]
+- ["14AlamofireImage0B10DownloaderC22DownloadPrioritizationO", "deinit"]
+- ["14AlamofireImage0B10DownloaderC22DownloadPrioritizationO", "fifo"]
+- ["14AlamofireImage0B10DownloaderC22DownloadPrioritizationO", "hash"]
+- ["14AlamofireImage0B10DownloaderC22DownloadPrioritizationO", "hashValue"]
+- ["14AlamofireImage0B10DownloaderC22DownloadPrioritizationO", "lifo"]
+- ["SE", "init"]
+- !private ["SE", "removeValue"]
+- !private ["SE", "subscript"]
+- !private ["SE", "uuidString"]
+- ["SQ", "=="]
+- ["SQ", "Persistence"]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "allowsCellularAccess"]
+- !private ["SQ", "async"]
+- ["SQ", "concurrent"]
+- !private ["SQ", "default"]
+- ["SQ", "fifo"]
+- !private ["SQ", "forSession"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "httpAdditionalHeaders"]
+- !private ["SQ", "httpShouldSetCookies"]
+- !private ["SQ", "httpShouldUsePipelining"]
+- ["SQ", "init"]
+- ["SQ", "lifo"]
+- !private ["SQ", "main"]
+- !private ["SQ", "removeValue"]
+- !private ["SQ", "requestCachePolicy"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "sync"]
+- !private ["SQ", "timeoutIntervalForRequest"]
+- !private ["SQ", "urlCache"]
+- !private ["SQ", "useProtocolCachePolicy"]
+- !private ["SQ", "uuidString"]
+- ["s25ExpressibleByArrayLiteralP", "concurrent"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "removeValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s32ExpressibleByStringInterpolationP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["SH", "=="]
+- ["SH", "Persistence"]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "allowsCellularAccess"]
+- !private ["SH", "async"]
+- !private ["SH", "default"]
+- ["SH", "fifo"]
+- !private ["SH", "forSession"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "httpAdditionalHeaders"]
+- !private ["SH", "httpShouldSetCookies"]
+- !private ["SH", "httpShouldUsePipelining"]
+- ["SH", "init"]
+- ["SH", "lifo"]
+- !private ["SH", "main"]
+- !private ["SH", "removeValue"]
+- !private ["SH", "requestCachePolicy"]
+- !private ["SH", "subscript"]
+- !private ["SH", "sync"]
+- !private ["SH", "timeoutIntervalForRequest"]
+- !private ["SH", "urlCache"]
+- !private ["SH", "useProtocolCachePolicy"]
+- !private ["SH", "uuidString"]
+- !private ["s6HasherV", "combine"]
+- !private ["14AlamofireImage0B5CacheP", "image"]
+- !private ["14AlamofireImage0B5CacheP", "init"]
+- !private ["14AlamofireImage0B10DownloaderC", "AutoPurgingImageCache"]
+- ["14AlamofireImage0B10DownloaderC", "Bool"]
+- ["14AlamofireImage0B10DownloaderC", "CompletionHandler"]
+- ["14AlamofireImage0B10DownloaderC", "DataRequest"]
+- ["14AlamofireImage0B10DownloaderC", "DataResponse"]
+- ["14AlamofireImage0B10DownloaderC", "DispatchQueue"]
+- ["14AlamofireImage0B10DownloaderC", "DownloadPrioritization"]
+- ["14AlamofireImage0B10DownloaderC", "ImageDownloader"]
+- ["14AlamofireImage0B10DownloaderC", "ImageFilter"]
+- ["14AlamofireImage0B10DownloaderC", "ImageRequestCache"]
+- ["14AlamofireImage0B10DownloaderC", "Int"]
+- ["14AlamofireImage0B10DownloaderC", "ProgressHandler"]
+- ["14AlamofireImage0B10DownloaderC", "Request"]
+- ["14AlamofireImage0B10DownloaderC", "RequestReceipt"]
+- ["14AlamofireImage0B10DownloaderC", "ResponseHandler"]
+- ["14AlamofireImage0B10DownloaderC", "SessionManager"]
+- ["14AlamofireImage0B10DownloaderC", "String"]
+- ["14AlamofireImage0B10DownloaderC", "URLCache"]
+- ["14AlamofireImage0B10DownloaderC", "URLCredential"]
+- ["14AlamofireImage0B10DownloaderC", "URLRequestConvertible"]
+- ["14AlamofireImage0B10DownloaderC", "URLSessionConfiguration"]
+- !private ["14AlamofireImage0B10DownloaderC", "UUID"]
+- ["14AlamofireImage0B10DownloaderC", "Void"]
+- ["14AlamofireImage0B10DownloaderC", "activeRequestCount"]
+- ["14AlamofireImage0B10DownloaderC", "addAuthentication"]
+- ["14AlamofireImage0B10DownloaderC", "arc4random"]
+- ["14AlamofireImage0B10DownloaderC", "cancelRequest"]
+- ["14AlamofireImage0B10DownloaderC", "credential"]
+- ["14AlamofireImage0B10DownloaderC", "defaultURLCache"]
+- ["14AlamofireImage0B10DownloaderC", "defaultURLSessionConfiguration"]
+- !private ["14AlamofireImage0B10DownloaderC", "dequeue"]
+- !private ["14AlamofireImage0B10DownloaderC", "download"]
+- ["14AlamofireImage0B10DownloaderC", "downloadPrioritization"]
+- !private ["14AlamofireImage0B10DownloaderC", "enqueue"]
+- ["14AlamofireImage0B10DownloaderC", "imageCache"]
+- !private ["14AlamofireImage0B10DownloaderC", "imageResponseSerializer"]
+- ["14AlamofireImage0B10DownloaderC", "init"]
+- ["14AlamofireImage0B10DownloaderC", "isActiveRequestCountBelowMaximumLimit"]
+- ["14AlamofireImage0B10DownloaderC", "maximumActiveDownloads"]
+- !private ["14AlamofireImage0B10DownloaderC", "queuedRequests"]
+- ["14AlamofireImage0B10DownloaderC", "responseHandlers"]
+- !private ["14AlamofireImage0B10DownloaderC", "responseQueue"]
+- ["14AlamofireImage0B10DownloaderC", "safelyDecrementActiveRequestCount"]
+- ["14AlamofireImage0B10DownloaderC", "safelyFetchResponseHandler"]
+- ["14AlamofireImage0B10DownloaderC", "safelyRemoveResponseHandler"]
+- ["14AlamofireImage0B10DownloaderC", "safelyStartNextRequestIfNecessary"]
+- !private ["14AlamofireImage0B10DownloaderC", "sessionManager"]
+- !private ["14AlamofireImage0B10DownloaderC", "start"]
+- !private ["14AlamofireImage0B10DownloaderC", "synchronizationQueue"]
+- !private ["14AlamofireImage0B10DownloaderC", "urlIdentifier"]
+- !private ["14AlamofireImage0B12RequestCacheP", "image"]
+- !private ["14AlamofireImage0B12RequestCacheP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["So8NSCodingP", "Persistence"]
+- !private ["So8NSCodingP", "init"]
+- ["So9NSCopyingP", "Persistence"]
+- !private ["So9NSCopyingP", "allowsCellularAccess"]
+- !private ["So9NSCopyingP", "default"]
+- !private ["So9NSCopyingP", "httpAdditionalHeaders"]
+- !private ["So9NSCopyingP", "httpShouldSetCookies"]
+- !private ["So9NSCopyingP", "httpShouldUsePipelining"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "requestCachePolicy"]
+- !private ["So9NSCopyingP", "timeoutIntervalForRequest"]
+- !private ["So9NSCopyingP", "urlCache"]
+- ["So8NSObjectC", "Persistence"]
+- !private ["So8NSObjectC", "allowsCellularAccess"]
+- !private ["So8NSObjectC", "async"]
+- !private ["So8NSObjectC", "default"]
+- !private ["So8NSObjectC", "httpAdditionalHeaders"]
+- !private ["So8NSObjectC", "httpShouldSetCookies"]
+- !private ["So8NSObjectC", "httpShouldUsePipelining"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "requestCachePolicy"]
+- !private ["So8NSObjectC", "sync"]
+- !private ["So8NSObjectC", "timeoutIntervalForRequest"]
+- !private ["So8NSObjectC", "urlCache"]
+- ["So8NSObjectP", "Persistence"]
+- !private ["So8NSObjectP", "allowsCellularAccess"]
+- !private ["So8NSObjectP", "async"]
+- !private ["So8NSObjectP", "default"]
+- !private ["So8NSObjectP", "httpAdditionalHeaders"]
+- !private ["So8NSObjectP", "httpShouldSetCookies"]
+- !private ["So8NSObjectP", "httpShouldUsePipelining"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "requestCachePolicy"]
+- !private ["So8NSObjectP", "sync"]
+- !private ["So8NSObjectP", "timeoutIntervalForRequest"]
+- !private ["So8NSObjectP", "urlCache"]
+- ["So14NSSecureCodingP", "Persistence"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So9OS_objectC", "async"]
+- ["So9OS_objectC", "init"]
+- !private ["So9OS_objectC", "main"]
+- !private ["So9OS_objectC", "sync"]
+- ["s9OptionSetP", "concurrent"]
+- !private ["So26NSURLCredentialPersistenceV", "forSession"]
+- ["Sm", "init"]
+- ["SY", "concurrent"]
+- !private ["SY", "forSession"]
+- !private ["SY", "useProtocolCachePolicy"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "uuidString"]
+- ["14AlamofireImage14RequestReceiptC", "Request"]
+- ["14AlamofireImage14RequestReceiptC", "String"]
+- ["14AlamofireImage14RequestReceiptC", "receiptID"]
+- !private ["14AlamofireImage14RequestReceiptC", "request"]
+- ["14AlamofireImage0B10DownloaderC15ResponseHandlerC", "CompletionHandler"]
+- ["14AlamofireImage0B10DownloaderC15ResponseHandlerC", "DataRequest"]
+- !private ["14AlamofireImage0B10DownloaderC15ResponseHandlerC", "ImageDownloader"]
+- ["14AlamofireImage0B10DownloaderC15ResponseHandlerC", "ImageFilter"]
+- ["14AlamofireImage0B10DownloaderC15ResponseHandlerC", "String"]
+- ["14AlamofireImage0B10DownloaderC15ResponseHandlerC", "handlerID"]
+- !private ["14AlamofireImage0B10DownloaderC15ResponseHandlerC", "operations"]
+- !private ["14AlamofireImage0B10DownloaderC15ResponseHandlerC", "request"]
+- ["14AlamofireImage0B10DownloaderC15ResponseHandlerC", "urlID"]
+- ["ST", "init"]
+- !private ["ST", "removeValue"]
+- !private ["ST", "subscript"]
+- ["s10SetAlgebraP", "concurrent"]
+- ["SS", "init"]
+- ["Sy", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["So10NSURLCacheC", "init"]
+- ["So15NSURLCredentialC", "Persistence"]
+- !private ["So15NSURLCredentialC", "init"]
+- !private ["So25NSURLSessionConfigurationC", "allowsCellularAccess"]
+- !private ["So25NSURLSessionConfigurationC", "default"]
+- !private ["So25NSURLSessionConfigurationC", "httpAdditionalHeaders"]
+- !private ["So25NSURLSessionConfigurationC", "httpShouldSetCookies"]
+- !private ["So25NSURLSessionConfigurationC", "httpShouldUsePipelining"]
+- !private ["So25NSURLSessionConfigurationC", "requestCachePolicy"]
+- !private ["So25NSURLSessionConfigurationC", "timeoutIntervalForRequest"]
+- !private ["So25NSURLSessionConfigurationC", "urlCache"]
+- !private ["10Foundation4UUIDV", "init"]
+- !private ["10Foundation4UUIDV", "uuidString"]
+- ["s30_CustomPlaygroundQuickLookableP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "removeValue"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation36_JSONStringDictionaryDecodableMarkerP", "removeValue"]
+- !private ["10Foundation36_JSONStringDictionaryDecodableMarkerP", "subscript"]
+- !private ["10Foundation36_JSONStringDictionaryEncodableMarkerP", "removeValue"]
+- !private ["10Foundation36_JSONStringDictionaryEncodableMarkerP", "subscript"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Persistence"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "allowsCellularAccess"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "httpAdditionalHeaders"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "httpShouldSetCookies"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "httpShouldUsePipelining"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "requestCachePolicy"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sync"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "timeoutIntervalForRequest"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "urlCache"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "removeValue"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "uuidString"]
+depends-nominal:
+- "So17OS_dispatch_queueC8DispatchE10AttributesV"
+- !private "14AlamofireImage011AutoPurgingB5CacheC"
+- "SK"
+- "s7CVarArgP"
+- !private "So23NSURLRequestCachePolicyV"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- !private "SD"
+- "So18OS_dispatch_objectC"
+- "So17OS_dispatch_queueC"
+- "14AlamofireImage0B10DownloaderC22DownloadPrioritizationO"
+- "SE"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s6HasherV"
+- !private "14AlamofireImage0B5CacheP"
+- "14AlamofireImage0B10DownloaderC"
+- !private "14AlamofireImage0B12RequestCacheP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- "So9OS_objectC"
+- "s9OptionSetP"
+- !private "So26NSURLCredentialPersistenceV"
+- "Sm"
+- "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- "14AlamofireImage14RequestReceiptC"
+- "14AlamofireImage0B10DownloaderC15ResponseHandlerC"
+- "ST"
+- "s10SetAlgebraP"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So10NSURLCacheC"
+- "So15NSURLCredentialC"
+- !private "So25NSURLSessionConfigurationC"
+- !private "10Foundation4UUIDV"
+- "s30_CustomPlaygroundQuickLookableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation36_JSONStringDictionaryDecodableMarkerP"
+- !private "10Foundation36_JSONStringDictionaryEncodableMarkerP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/asif.seraje/Downloads/TestImage/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/armv7.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Users/asif.seraje/Downloads/TestImage/Pods/Target Support Files/AlamofireImage/AlamofireImage-umbrella.h"
+- "/Users/asif.seraje/Downloads/TestImage/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/AlamofireImage.build/unextended-module.modulemap"
+- "/Users/asif.seraje/Downloads/TestImage/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Alamofire.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "496720e48562cbab5785ceb700f91cd5"

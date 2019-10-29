@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "7b7ef82216a955117e2409fd3b799b28"
+build_time: [1567707730, 909596000]
+inputs:
+  "/Users/asif.seraje/Downloads/TestImage/Pods/Alamofire/Source/AFError.swift": [1566752285, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/Alamofire/Source/Alamofire.swift": [1566752285, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1566752285, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/Alamofire/Source/MultipartFormData.swift": [1566752285, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1566752285, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/Alamofire/Source/Notifications.swift": [1566752285, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/Alamofire/Source/ParameterEncoding.swift": [1566752285, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/Alamofire/Source/Request.swift": [1566752285, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/Alamofire/Source/Response.swift": [1566752285, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/Alamofire/Source/ResponseSerialization.swift": [1566752285, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/Alamofire/Source/Result.swift": [1566752285, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1566752285, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/Alamofire/Source/SessionDelegate.swift": [1566752285, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/Alamofire/Source/SessionManager.swift": [1566752285, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/Alamofire/Source/TaskDelegate.swift": [1566752285, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/Alamofire/Source/Timeline.swift": [1566752285, 0]
+  "/Users/asif.seraje/Downloads/TestImage/Pods/Alamofire/Source/Validation.swift": [1566752285, 0]
